@@ -1,6 +1,8 @@
 CEP 10 HTML Extension Cookbook
 =============================
 
+- [Development and Debugging](#development-and-debugging)
+
 
 Overview
 --------
